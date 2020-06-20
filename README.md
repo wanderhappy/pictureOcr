@@ -1,0 +1,2 @@
+# pictureOcr
+use ocrspace
